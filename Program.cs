@@ -7,7 +7,7 @@ void PrintArray(string[] ExternalArray)
 {
     for(int i = 0; i < ExternalArray.Length; i++)
         Console.Write(ExternalArray[i] + " ");
-    Console.WriteLine();
+        Console.WriteLine();
 }
 
 string[] PickItemsFromArray(string[] ExternalArray)
@@ -25,7 +25,6 @@ string[] PickItemsFromArray(string[] ExternalArray)
     }
 
     Array.Resize(ref ArrayResult, counter);
-
     return ArrayResult;
 }
 
@@ -34,5 +33,5 @@ PrintArray(myArray);
 
 string[] ArrayFinal = PickItemsFromArray(myArray);
 
-Console.WriteLine("Array with items with less then 3 symbols is:");
+Console.WriteLine("Array with items with less than 3 symbols is:");
 PrintArray(ArrayFinal);
