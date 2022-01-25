@@ -1,0 +1,15 @@
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.csproj.AssemblyReference.cache
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.AssemblyInfoInputs.cache
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.AssemblyInfo.cs
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.csproj.CoreCompileInputs.cache
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/bin/Debug/net6.0/Final_test_C#
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/bin/Debug/net6.0/Final_test_C#.deps.json
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/bin/Debug/net6.0/Final_test_C#.runtimeconfig.json
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/bin/Debug/net6.0/Final_test_C#.dll
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/bin/Debug/net6.0/ref/Final_test_C#.dll
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/bin/Debug/net6.0/Final_test_C#.pdb
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.dll
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/ref/Final_test_C#.dll
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.pdb
+/Users/ado/Documents/Обучение Разработчик/C#/Final_test_C#/obj/Debug/net6.0/Final_test_C#.genruntimeconfig.cache
